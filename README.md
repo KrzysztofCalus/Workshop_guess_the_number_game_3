@@ -6,6 +6,8 @@
 - "To big" - if computer number is to big
 ##### or
 - "You win" - if computer number is correct
+
+Application run on Flask framework.
 ## How to run application ?
 #### Application is run in http://localhost:5000/ 
 ## Inputs:
